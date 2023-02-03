@@ -1,0 +1,10 @@
+title = "Udon"
+classOrder = [
+    "Udon"
+]
+
+[docusaurus]
+organizationName = "Sleepy Fox Studio"
+projectName = "Udon"
+tagline = "A lightweight controller-based framework for building high-end games."
+url="https://example.com"
